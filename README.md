@@ -1,0 +1,1 @@
+School Database using Python3, MySQL and PyQt5
